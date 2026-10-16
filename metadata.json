@@ -1,0 +1,6 @@
+{
+  "name": "Urna Ao Vivo — Lula vs Flávio Bolsonaro",
+  "description": "Overlay interativo de votação eleitoral ao vivo para TikTok LIVE com urna eletrônica brasileira, contabilização por presentes virtuais em tempo real e painel administrativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
